@@ -7,7 +7,7 @@ This project is a workspace that has the goal to provide you simple node that ca
 Clone this repository into the src folder inside your catkin_ws, so open the terminal and type:
 
 ```
-cd catkin_ws
+cd catkin_ws/src
 git clone https://github.com/davideferrari95/simple_ws.git
 ```
 
