@@ -4,16 +4,17 @@ This project is a workspace that has the goal to provide you simple node that ca
 
 ## Getting Started
 
-In order to compile it you have to open the terminal and enter in the simple_ws forlder.
-Suppose to put simple_ws inside your home, you have to type
+Clone this repository into the src folder inside your catkin_ws, so open the terminal and type:
 
 ```
-cd && cd simple_ws
+cd catkin_ws
+git clone https://github.com/davideferrari95/simple_ws.git
 ```
 
-Now you have to it compile with
+In order to compile it enter in the catkin_ws forlder and compile with catkin_make:
 
 ```
+cd catkin_ws
 catkin_make
 ```
 
