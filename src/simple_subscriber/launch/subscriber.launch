@@ -1,0 +1,3 @@
+<launch>
+        <node pkg="simple_subscriber" name="subscriber" type="simple_subscriber" output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+        <node pkg="simple_client" name="client" type="simple_client" output="screen"/>
+</launch>
